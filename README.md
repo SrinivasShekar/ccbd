@@ -1,1 +1,5 @@
-# This is the things that we have done at ccbd.
+#Contributors:
+#Srinivas Shekar
+#Anuj Bhushan 
+#Tanya Mehrotra
+# This is the stuff that we have done at ccbd till now.
