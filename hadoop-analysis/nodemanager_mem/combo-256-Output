@@ -1,0 +1,7 @@
+Spent 216ms computing base-splits.
+Spent 2ms computing TeraScheduler splits.
+Computing input splits took 223ms
+Sampling 1 splits of 1
+Making 1 from 10000 sampled records
+Computing parititions took 243ms
+Spent 474ms computing partitions.
